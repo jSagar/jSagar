@@ -1,0 +1,15 @@
+/workspaces/jSagar/mynewApp/bin/Debug/net8.0/mynewApp
+/workspaces/jSagar/mynewApp/bin/Debug/net8.0/mynewApp.deps.json
+/workspaces/jSagar/mynewApp/bin/Debug/net8.0/mynewApp.runtimeconfig.json
+/workspaces/jSagar/mynewApp/bin/Debug/net8.0/mynewApp.dll
+/workspaces/jSagar/mynewApp/bin/Debug/net8.0/mynewApp.pdb
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.AssemblyInfoInputs.cache
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.AssemblyInfo.cs
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.csproj.CoreCompileInputs.cache
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.sourcelink.json
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.dll
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/refint/mynewApp.dll
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.pdb
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/mynewApp.genruntimeconfig.cache
+/workspaces/jSagar/mynewApp/obj/Debug/net8.0/ref/mynewApp.dll
